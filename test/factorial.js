@@ -14,7 +14,7 @@ describe('Factorial', function() {
   it('should return the factorial of the number', function() {
     // Define the input and expected output
     const num = 5;
-    const expectedOutput = 10;
+    const expectedOutput = 120;
 
     // Call the factorial function and get the actual output
     const actualOutput = factorial(num);

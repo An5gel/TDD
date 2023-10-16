@@ -20,12 +20,12 @@ describe('my test space', function () {
 
     //Test First TDD Cycle 1
 
-    function multiply (a, b) { return 1;
-    } 
+    // function multiply (a, b) { return 1;
+    // } 
 
-    it.skip('check the result of the multiply function', function () {
-        assert.equal(multiply(1, 1), 1);
-    });
+    // it.skip('check the result of the multiply function', function () {
+    //     assert.equal(multiply(1, 1), 1);
+    // });
 
 
 
