@@ -26,6 +26,6 @@ describe('Fibonacci', function() {
         assert.equal(fibonacci(4), 3);
         assert.equal(fibonacci(5), 5);
         assert.equal(fibonacci(6), 8);
-        assert.equal(fibonacci(7), 11);
+        assert.equal(fibonacci(7), 13);
     });
 });
