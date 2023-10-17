@@ -1,3 +1,6 @@
+// mypair
+// Monicah Mirembe
+
 const assert = require('chai').assert;
 
 // Define the fibonacci function
